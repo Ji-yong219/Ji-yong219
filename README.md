@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Minku-Koo">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/Minku-Koo" >
+<a href="https://github.com/">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/yong219" >
   </a>
-  <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/min9_koo/">
+  <a href="https://instagram.com/ji.y0ng">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/ji.y0ng">
   </a>
-  <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://tech-diary.tistory.com/">
+  <a href="https://eat-sleep-code.tistory.com/">
+    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://eat-sleep-code.tistory.com/">
   </a>
 </p>
 
