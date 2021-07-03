@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jiyong!</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-yong219&label=Profile%20views&color=0e75b6&style=flat" alt="ji-yong219" /> </p>
-
-- 🔭 I’m currently working on [PDF Table Extractor](https://github.com/Ji-yong219/PDF_table_extract)
 
 - 🌱 I’m currently learning **Web Scrapping, Computer Vision**
 
 - 📫 How to reach me **wldydslapjyy@naver.com**
 
-- ⚡ Fun fact **Rubik's cube**
+- ⚡ Fun fact **Rubik's cube**, **Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp
