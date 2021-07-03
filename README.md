@@ -29,7 +29,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ji.y0ng_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ji.y0ng_" height="30" width="40" /></a>
+<a href="https://github.com/Minku-Koo">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/Minku-Koo" >
+  </a>
+  <a href="https://instagram.com/min9_koo">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/min9_koo/">
+  </a>
+  <a href="https://tech-diary.tistory.com/">
+    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://tech-diary.tistory.com/">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
