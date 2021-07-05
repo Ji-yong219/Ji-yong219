@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ji-yong219">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/yong219" >
   </a>
-  <a href="https://instagram.com/ji.y0ng">
+  <a href="https://www.instagram.com/ji.y0ng_/">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/ji.y0ng">
   </a>
   <a href="https://eat-sleep-code.tistory.com/">
