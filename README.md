@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Web Scrapping, Computer Vision**
 
-- 📫 How to reach me **wldydslapjyy@naver.com**
-
 - ⚡ Fun fact **Rubik's cube**, **Photography**
 
 <h3 align="left">Connect with me:</h3>
