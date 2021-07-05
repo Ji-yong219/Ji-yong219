@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/">
+<a href="https://github.com/Ji-yong219">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/yong219" >
   </a>
   <a href="https://instagram.com/ji.y0ng">
