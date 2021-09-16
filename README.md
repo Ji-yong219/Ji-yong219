@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top" width="50%">
-            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact&theme=dark" alt="ji-yong219" /></p>
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact&theme=dark" alt="ji-yong219" />
         </td>
 
         <td valign="top" width="50%">
-            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ji-yong219&show_icons=true&locale=en&theme=dark" alt="ji-yong219" /></p>
+            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ji-yong219&show_icons=true&locale=en&theme=dark" alt="ji-yong219" />
         </td>
     </tr>
     </table>
