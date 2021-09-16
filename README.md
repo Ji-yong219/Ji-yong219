@@ -53,6 +53,6 @@ Here are some ideas to get you started:
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact" alt="ji-yong219" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact&theme=dark" alt="ji-yong219" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ji-yong219&show_icons=true&locale=en" alt="ji-yong219" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ji-yong219&show_icons=true&locale=en&theme=dark" alt="ji-yong219" /></p>
