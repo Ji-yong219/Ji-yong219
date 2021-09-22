@@ -34,11 +34,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://eat-sleep-code.tistory.com/">
   </a>
 </p>
+<style>
+    .flask img{
+        background: rgba(255,255,255,0.5);
+    }
+</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" style="background: rgba(255,255,255,0.5);"><img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" alt="flask" width="70" height="70"/> </a>
+    <a class="flask" href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" alt="flask" width="70" height="70"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
