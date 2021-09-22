@@ -34,11 +34,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://eat-sleep-code.tistory.com/">
   </a>
 </p>
-<style>
-    .flask img{
-        background: rgba(255,255,255,0.5);
-    }
-</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
