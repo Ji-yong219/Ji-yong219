@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/yong219" >
   </a>
   <a href="https://ji-yong219.github.io/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=55A63F&link=https://ji-yong219.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://ji-yong219.github.io/">
   </a>
   <a href="https://eat-sleep-code.tistory.com/">
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://eat-sleep-code.tistory.com/">
