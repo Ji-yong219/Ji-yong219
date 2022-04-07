@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-yong219&label=Profile%20views&color=0e75b6&style=flat" alt="ji-yong219" /> </p>
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 I’m currently learning **Back-End**, **Algorithm**
 
 - ⚡ Fun fact **Rubik's cube**, **Photography**
 
