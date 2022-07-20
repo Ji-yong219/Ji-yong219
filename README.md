@@ -84,12 +84,12 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=Notepad++&logoColor=white">
+  <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=Notepadplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
