@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **comjiyong@kakao.com**
 
-- ⚡ Fun fact **Photography**, **Rubik's cube**
+- ⚡ Fun fact **Photography**, **Driving**, **Rubik's cube**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
