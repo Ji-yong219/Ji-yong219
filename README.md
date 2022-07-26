@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-yong219&label=Profile%20views&color=0e75b6&style=flat" alt="ji-yong219" /> </p>
 
-- 🔭 I’m currently working on **SK C&C**
-
 - 🌱 I’m currently learning **Microsoft Azure**, **Spring**
 
 - 📫 How to reach me: **comjiyong@kakao.com**
