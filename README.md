@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C++ Algorithm**, **Clean Code**
 
-- 📫 How to reach me: **comjiyong@kakao.com**
+<!-- - 📫 How to reach me: **comjiyong@kakao.com** -->
 
 - ⚡ Fun fact **Photography**, **Driving**, **Rubik's cube**
 
