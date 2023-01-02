@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-yong219&label=Profile%20views&color=0e75b6&style=flat" alt="ji-yong219" /> </p>
 
-- 🔭 I’m currently working on SK Inc.
+- 🔭 I’m currently working on SK Inc.<img src="https://www.skcc.co.kr/v2/img/kr/layout/logo.png">
 
 - 🌱 I’m currently learning **C++ Algorithm**, **Clean Code**
 
