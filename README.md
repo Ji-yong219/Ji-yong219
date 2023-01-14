@@ -120,10 +120,10 @@ Here are some ideas to get you started:
 <table style="border: none">
     <tr>
         <td valign="top" width="50%" style="border: none">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact&theme=dark" alt="ji-yong219" />
+        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ji-yong219&show_icons=true&locale=en&layout=compact&theme=dark" alt="ji-yong219" />
         </td>
         <td valign="top" width="50%" style="border: none">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ji-yong219&show_icons=true&locale=en&theme=dark" alt="ji-yong219" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ji-yong219&show_icons=true&locale=en&theme=dark" alt="ji-yong219" />
         </td>
     </tr>
 </table>
