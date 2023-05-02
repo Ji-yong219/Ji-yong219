@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <!--<a href="https://eat-sleep-code.tistory.com/">
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://eat-sleep-code.tistory.com/">
   </a>-->
-  <a href="https://www.instagram.com/ji.y0ng_/">
+  <a href="https://www.instagram.com/ji.y0ng/">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/ji.y0ng">
   </a>
 </p>
