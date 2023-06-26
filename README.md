@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a target='_blank' href="https://www.skcc.co.kr/"><img height="60px" src="https://www.skcc.co.kr/v2/img/kr/layout/logo.png"></a>
 
-- 🌱 I’m currently learning **Spring MVC**, **Jenkins**
+- 🌱 I’m currently learning **Spring MVC**, **Jenkins**, **ELK Stack**
 
 <!-- - 📫 How to reach me: **comjiyong@kakao.com** -->
 
@@ -112,6 +112,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+
+  
+  <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <br>
 </p>
 
