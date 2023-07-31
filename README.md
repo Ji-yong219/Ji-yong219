@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<!-- <p align="center">
 <!--   <a href="https://github.com/Ji-yong219">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/yong219" >
   </a> -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ji.y0ng/">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/ji.y0ng">
   </a>
-</p>
+</p> -->
 
 <h3 align="center">STACKS:</h3>
 <p align="center">
