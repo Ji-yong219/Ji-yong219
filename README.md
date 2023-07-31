@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a target='_blank' href="https://www.skcc.co.kr/"><img height="60px" src="https://www.skcc.co.kr/v2/img/kr/layout/logo.png"></a>
 
-- 🌱 I’m currently learning **Spring MVC**, **Jenkins**, **ELK Stack**
+- 🌱 I’m currently learning **Spring MVC**, **ELK Stack**, **ASP.NET**
 
 <!-- - 📫 How to reach me: **comjiyong@kakao.com** -->
 
