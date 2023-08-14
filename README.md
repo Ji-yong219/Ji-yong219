@@ -124,9 +124,9 @@ Here are some ideas to get you started:
   <br>-->
 
   
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">-->
-  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">-->
   <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
