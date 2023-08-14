@@ -64,18 +64,15 @@ Here are some ideas to get you started:
   <!--<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">-->
 <!--   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
   <br><br>
-  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">  
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">  
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  
   <br><br>
-  
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">  
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F37626?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">  
   <br>
-  
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">  
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">  
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">  
@@ -90,7 +87,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Elasticstack-005571.svg?style=for-the-badge&logo=Elasticstack&logoColor=white">
   <br>
   <br>-->
-
   <!--
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -100,11 +96,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
   <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
-  
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <br>-->
-
   <!--
   <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=Notepadplusplus&logoColor=white">
@@ -115,8 +109,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <br>-->
-
-  
   <!--<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">-->
