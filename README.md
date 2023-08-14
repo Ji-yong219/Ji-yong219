@@ -61,9 +61,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">-->
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">-->
 <!--   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
   <br>
   
@@ -83,15 +83,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"> -->
 <!--   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  <br>
+  <!--<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">-->
+  <!--<br>-->
 
+  
   <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticstack-005571.svg?style=for-the-badge&logo=Elasticstack&logoColor=white">
   <br>
 
+  <!--
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"> 
@@ -103,8 +105,9 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <br>
-  
+  <br>-->
+
+  <!--
   <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=Notepadplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
@@ -113,12 +116,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-  <br>
+  <br>-->
+
   
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">-->
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">-->
   <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
