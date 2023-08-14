@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> 
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F37626?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white"> 
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> 
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> 
