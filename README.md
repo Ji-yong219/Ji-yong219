@@ -90,13 +90,13 @@ Here are some ideas to get you started:
   <!--<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">-->
   <br>
   <br>
-  
+  <!--
   <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticstack-005571.svg?style=for-the-badge&logo=Elasticstack&logoColor=white">
   <br>
-  <br>
+  <br>-->
 
   <!--
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
