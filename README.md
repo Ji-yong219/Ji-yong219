@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-yong219&label=Profile%20views&color=0e75b6&style=flat" alt="ji-yong219" /> </p>
 
-- 🔭 I’m currently working on <a target='_blank' href="https://www.skcc.co.kr/"><img height="60px" src="https://www.skcc.co.kr/v2/img/kr/layout/logo.png"></a>
+- 🔭 I’m currently working on <a target='_blank' href="https://www.skcc.co.kr/"><img height="60px" src="https://www.skcc.co.kr/img/Image_Resource.SK_SVG.svg"></a>
 
 - 🌱 I’m currently learning **Spring MVC**, **ELK Stack**, **ASP.NET**
 
