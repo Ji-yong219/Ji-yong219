@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a target='_blank' href="https://www.skcc.co.kr/"><img height="60px" src="https://www.skcc.co.kr/img/Image_Resource.SK_SVG.svg"></a>
 
-- 🌱 I’m currently learning **M365**, **ASP.NET**
+- 🌱 I’m currently learning **M365**, **Microsoft Graph**, **ASP.NET**
 
 <!-- - 📫 How to reach me: **comjiyong@kakao.com** -->
 
